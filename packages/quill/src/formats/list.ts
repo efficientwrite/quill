@@ -5,7 +5,7 @@ import Quill from '../core/quill.js';
 
 class ListContainer extends Container {}
 ListContainer.blotName = 'list-container';
-ListContainer.tagName = 'OL';
+ListContainer.tagName = 'UL';
 
 class ListItem extends Block {
   static create(value: string) {

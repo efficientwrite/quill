@@ -3,7 +3,7 @@
   "version": "2.0.3",
   "description": "Quill development environment",
   "private": true,
-  "author": "Jason Chen <jhchen7@gmail.com>",
+  "author": "Gokul Raam",
   "homepage": "https://quilljs.com",
   "config": {
     "ports": {
@@ -17,10 +17,7 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slab/quill.git"
-  },
-  "bugs": {
-    "url": "https://github.com/slab/quill/issues"
+    "url": "git+https://github.com/efficientwrite/quill.git"
   },
   "scripts": {
     "build": "run-p build:*",
