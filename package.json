@@ -4,7 +4,6 @@
   "description": "Quill development environment",
   "private": true,
   "author": "Gokul Raam",
-  "homepage": "https://quilljs.com",
   "config": {
     "ports": {
       "webpack": "9080",
